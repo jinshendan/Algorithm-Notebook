@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 /*
 
 
@@ -50,3 +53,7 @@ struct TwoSAT {
 		return true;
 	}
 };
+
+int main() {
+	return 0;
+}
